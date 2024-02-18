@@ -1,0 +1,8 @@
+# Necessary to keep data in Airflow containers
+/configs
+/dags
+/logs
+/plugins
+
+# Necessary to start Airflow environment
+/.env
